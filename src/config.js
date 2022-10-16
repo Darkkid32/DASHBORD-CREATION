@@ -1,18 +1,22 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x5180db8F5c931aaE63c74266b211F580155ecac8",
+    "collection_address": "0x2c078a05f21cC39b086d40Fbe652E8f3a70d9cB3",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
     "block_chain_id": "1",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
     "title": "DASHBORD-CREATION",
+    
+    // 4. Set your Covalent API Key
+    "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
 
-    // 4. (Optional) Display the floor price chart
+
+    // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
-    // 5. (Optional) Set your banner image
+    // 6. (Optional) Set your banner image
     "banner_picture": "https://i.seadn.io/gae/tYqV00F5zMtp-3Ib-P_BhtB7xwVlzo71gGVNIrVCG-YnO9tHsvWiqnJ9iHPKrofHzrtVuq5zrJen8cOv1pfWR66BLb15nPOkDakm_A?auto=format&w=1000",
   },
 
