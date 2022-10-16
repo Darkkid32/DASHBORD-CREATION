@@ -1,7 +1,7 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "0x5180db8F5c931aaE63c74266b211F580155ecac8",
+    "collection_address": "0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
     "block_chain_id": "1",
@@ -9,14 +9,11 @@ export const CONFIG = {
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
     "title": "DASHBORD-CREATION",
 
-    
-  
-
     // 4. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "banner_picture": "https://i.seadn.io/gae/QgLtx-Tyatx1Lmy64jJpog42C4bgaW_Qg_wSAY2MFCyQEuXfavGz37RK4tEqmyvHUGCNuhW7X4nynoBXwlOHvpdTVd7HJ61-1IG9Cg?auto=format&w=1000",
+    "banner_picture": "https://i.seadn.io/gae/tYqV00F5zMtp-3Ib-P_BhtB7xwVlzo71gGVNIrVCG-YnO9tHsvWiqnJ9iHPKrofHzrtVuq5zrJen8cOv1pfWR66BLb15nPOkDakm_A?auto=format&w=1000",
   },
 
   // Supported networks - just for your reference
