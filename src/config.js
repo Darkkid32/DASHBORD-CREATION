@@ -9,14 +9,14 @@ export const CONFIG = {
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
     "title": "DASHBORD-CREATION",
 
-    // 4. Set your Covalent API Key
-    "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
+    
+  
 
-    // 5. (Optional) Display the floor price chart
+    // 4. (Optional) Display the floor price chart
     "timeseries_chart": true,
 
-    // 6. (Optional) Set your banner image
-    "banner_picture": "https://i.seadn.io/gae/AwRnv3_KXdiQqXiW39O56bI-Y10agZF-X5mG-W_p2-rQocA1kjqn9diZ1zkfJBisECBQPF57W_G7ZHp-fJsn-T9iX1K90-ADP_Nwubk?auto=format&w=1000",
+    // 5. (Optional) Set your banner image
+    "banner_picture": "https://i.seadn.io/gae/QgLtx-Tyatx1Lmy64jJpog42C4bgaW_Qg_wSAY2MFCyQEuXfavGz37RK4tEqmyvHUGCNuhW7X4nynoBXwlOHvpdTVd7HJ61-1IG9Cg?auto=format&w=1000",
   },
 
   // Supported networks - just for your reference
