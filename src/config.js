@@ -4,13 +4,12 @@ export const CONFIG = {
     "collection_address": "0x5180db8F5c931aaE63c74266b211F580155ecac8",
 
     // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
-    "block_chain_id": "137",
+    "block_chain_id": "1",
 
     // 3. Set the default title of your dashboard. If found, this template uses the NFT Collection name for the title.
     "title": "DASHBORD-CREATION",
     
-    // 4. Set your Covalent API Key
-    "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
+   
 
 
     // 5. (Optional) Display the floor price chart
