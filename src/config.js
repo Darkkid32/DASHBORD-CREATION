@@ -11,7 +11,8 @@ export const CONFIG = {
     "title": "DASHBORD-CREATION",
     
     // 4. Set your Covalent API Key
-    "api_key": "fOe5sO1polY18dW4Lv8hktE1XxImDmTs",
+      "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
+
 
     // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
