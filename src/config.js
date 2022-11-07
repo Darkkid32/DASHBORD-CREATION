@@ -1,7 +1,7 @@
 export const CONFIG = {
   TEMPLATE: {
     // 1. Set your NFT collection contract address
-    "collection_address": "fOe5sO1polY18dW4Lv8hktE1XxImDmTs",
+    "collection_address": "0x9498274b8c82b4a3127d67839f2127f2ae9753f4",
 
      // 2. Set your blockchain chain ID where your NFT collection contract address is deployed (see below for value options)
     "block_chain_id": "1",
@@ -11,7 +11,7 @@ export const CONFIG = {
     "title": "DASHBORD-CREATION",
     
     // 4. Set your Covalent API Key
-    "api_key": "ckey_3bdabb7325ee47cc9bcc1e5f3d7",
+    "api_key": "fOe5sO1polY18dW4Lv8hktE1XxImDmTs",
 
     // 5. (Optional) Display the floor price chart
     "timeseries_chart": true,
